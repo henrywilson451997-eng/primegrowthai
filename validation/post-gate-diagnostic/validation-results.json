@@ -1,0 +1,24 @@
+[
+  {
+    "lang": "en",
+    "startVisible": true,
+    "resourceAccessStillVisible": true,
+    "resultVisible": true,
+    "recommendedCtaVisible": true,
+    "screenshots": [
+      "en-01-start.png",
+      "en-02-result.png"
+    ]
+  },
+  {
+    "lang": "fr",
+    "startVisible": true,
+    "resourceAccessStillVisible": true,
+    "resultVisible": true,
+    "recommendedCtaVisible": true,
+    "screenshots": [
+      "fr-01-start.png",
+      "fr-02-result.png"
+    ]
+  }
+]

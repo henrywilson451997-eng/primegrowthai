@@ -1,0 +1,24 @@
+[
+  {
+    "lang": "en",
+    "url": "https://www.primegrowthai.com/resources/construction-systems/thank-you?email=test@example.com&name=David",
+    "startVisible": true,
+    "resultVisible": true,
+    "recommendedCtaVisible": true,
+    "screenshots": [
+      "en-01-start.png",
+      "en-02-result.png"
+    ]
+  },
+  {
+    "lang": "fr",
+    "url": "https://www.primegrowthai.com/fr/ressources/systemes-construction/merci?email=test@example.com&name=David",
+    "startVisible": true,
+    "resultVisible": true,
+    "recommendedCtaVisible": true,
+    "screenshots": [
+      "fr-01-start.png",
+      "fr-02-result.png"
+    ]
+  }
+]

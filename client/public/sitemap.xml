@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml">
+
+  <!-- English Homepage -->
+  <url>
+    <loc>https://www.primegrowthai.com/</loc>
+    <lastmod>2026-04-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.primegrowthai.com/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.primegrowthai.com/fr"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.primegrowthai.com/"/>
+  </url>
+
+  <!-- French Homepage -->
+  <url>
+    <loc>https://www.primegrowthai.com/fr</loc>
+    <lastmod>2026-04-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.primegrowthai.com/fr"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.primegrowthai.com/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.primegrowthai.com/"/>
+  </url>
+
+  <!-- Construction Resource Page (EN) -->
+  <url>
+    <loc>https://www.primegrowthai.com/resources/construction-systems</loc>
+    <lastmod>2026-04-20</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.primegrowthai.com/resources/construction-systems"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.primegrowthai.com/fr/ressources/systemes-construction"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.primegrowthai.com/resources/construction-systems"/>
+  </url>
+
+  <!-- Construction Resource Page (FR) -->
+  <url>
+    <loc>https://www.primegrowthai.com/fr/ressources/systemes-construction</loc>
+    <lastmod>2026-04-20</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.primegrowthai.com/fr/ressources/systemes-construction"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.primegrowthai.com/resources/construction-systems"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.primegrowthai.com/resources/construction-systems"/>
+  </url>
+
+  <!-- Real Estate Resource Page -->
+  <url>
+    <loc>https://www.primegrowthai.com/resources/real-estate-systems</loc>
+    <lastmod>2026-04-20</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.primegrowthai.com/resources/real-estate-systems"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.primegrowthai.com/resources/real-estate-systems"/>
+  </url>
+
+  <!-- AI Growth Score Calculator (EN) -->
+  <url>
+    <loc>https://www.primegrowthai.com/tools/ai-growth-score</loc>
+    <lastmod>2026-04-20</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.primegrowthai.com/tools/ai-growth-score"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.primegrowthai.com/fr/outils/calculateur-croissance-ia"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.primegrowthai.com/tools/ai-growth-score"/>
+  </url>
+
+  <!-- AI Growth Score Calculator (FR) -->
+  <url>
+    <loc>https://www.primegrowthai.com/fr/outils/calculateur-croissance-ia</loc>
+    <lastmod>2026-04-20</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.primegrowthai.com/fr/outils/calculateur-croissance-ia"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.primegrowthai.com/tools/ai-growth-score"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.primegrowthai.com/tools/ai-growth-score"/>
+  </url>
+
+  <!-- Job Costing Calculator (EN) -->
+  <url>
+    <loc>https://www.primegrowthai.com/tools/job-costing-calculator</loc>
+    <lastmod>2026-04-20</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.primegrowthai.com/tools/job-costing-calculator"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.primegrowthai.com/fr/outils/calculateur-couts-chantier"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.primegrowthai.com/tools/job-costing-calculator"/>
+  </url>
+
+  <!-- Job Costing Calculator (FR) -->
+  <url>
+    <loc>https://www.primegrowthai.com/fr/outils/calculateur-couts-chantier</loc>
+    <lastmod>2026-04-20</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.primegrowthai.com/fr/outils/calculateur-couts-chantier"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.primegrowthai.com/tools/job-costing-calculator"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.primegrowthai.com/tools/job-costing-calculator"/>
+  </url>
+
+  <!-- Apply Page (EN) -->
+  <url>
+    <loc>https://www.primegrowthai.com/apply</loc>
+    <lastmod>2026-04-20</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.primegrowthai.com/apply"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.primegrowthai.com/fr/postuler"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.primegrowthai.com/apply"/>
+  </url>
+
+  <!-- Apply Page (FR) -->
+  <url>
+    <loc>https://www.primegrowthai.com/fr/postuler</loc>
+    <lastmod>2026-04-20</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.primegrowthai.com/fr/postuler"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.primegrowthai.com/apply"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.primegrowthai.com/apply"/>
+  </url>
+
+</urlset>

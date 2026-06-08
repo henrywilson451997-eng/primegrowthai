@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+Disallow: /resources/construction-systems/thank-you
+Disallow: /fr/ressources/systemes-construction/merci
+
+Sitemap: https://www.primegrowthai.com/sitemap.xml
